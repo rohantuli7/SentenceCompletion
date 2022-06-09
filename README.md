@@ -1,2 +1,4 @@
 # SentenceCompletion
 Language modelling for sentence completion
+
+Microsoft Sentence Completion Challenge is a benchmark proposed by researchers at Microsoft. This challenge provides a common measurement technique for testing the performance of different models developed using distinct methodologies. In this paper, three approaches have been implemented which are based on traditional n-gram models, word embeddings similarity and deep learning models. For each approach, multiple models have been implemented by varying the hyperparameters and finally, the optimised models for each approach have been compared against each other. The models have also been tested for statistical metrics such as accuracy, entropy, and uncertainty. Deep learning models outperformed all other approaches and BERT specifically had the highest accuracy out of all the models.
